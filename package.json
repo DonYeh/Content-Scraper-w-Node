@@ -1,0 +1,17 @@
+{
+  "name": "nodescraper",
+  "version": "1.0.1",
+  "description": "node scraper using the x-ray module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Donald Yeh",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^3.7.3"
+  },
+  "devDependencies": {}
+}
