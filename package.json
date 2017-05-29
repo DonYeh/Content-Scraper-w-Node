@@ -11,7 +11,10 @@
   "author": "Donald Yeh",
   "license": "MIT",
   "dependencies": {
-    "json2csv": "^3.7.3"
+    "fs": "0.0.1-security",
+    "json2csv": "^3.7.3",
+    "request": "^2.81.0",
+    "x-ray": "^2.3.2"
   },
   "devDependencies": {}
 }
